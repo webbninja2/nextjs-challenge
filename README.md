@@ -1,4 +1,4 @@
-# NextJS Challenge - Seven Sigma Group
+# NextJS Challenge 
 
 This repository contains a typical NextJS project at Seven Sigma Group.
 
